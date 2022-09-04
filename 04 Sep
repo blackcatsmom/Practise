@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Practise - Homework</title>
+</head>
+<body>
+    <h1 style="text-align: center;"> Homework Page</h1>
+    <span>
+    <p style="text-align: center; background-color: bisque;">This is a paragraph.</p>
+    </span>
+        <span>
+    <p style="color: rgb(227 174 174); text-align: center;"> This is another paragraph</p>
+        </span>
+            <span> 
+                <p style="text-align: right;color:cadetblue;"> 
+            <i>Developed by 
+                <b><a href="https://github.com/blackcatsmom">blackcatsmom</a></b></i>
+                </p> 
+            </span>
+</body>
+</html>
